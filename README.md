@@ -1,1 +1,1 @@
-# maiBot
+# majBot
