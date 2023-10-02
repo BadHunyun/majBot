@@ -30,6 +30,13 @@
                 <version>3.8.1</version>
             </plugin>
         </plugins>
+
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
     </build>
 
     <repositories>
@@ -44,6 +51,7 @@
             <groupId>com.github.SNWCreations</groupId>
             <artifactId>JKook</artifactId>
             <version>0.49.2</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>commons-io</groupId>
