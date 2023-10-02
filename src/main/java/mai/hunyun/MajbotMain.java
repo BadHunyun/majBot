@@ -5,10 +5,7 @@ import snw.jkook.command.JKookCommand;
 import snw.jkook.plugin.BasePlugin;
 
 import java.io.File;
-import java.io.FileOutputStream;
 import java.net.URL;
-import java.nio.channels.Channels;
-import java.nio.channels.ReadableByteChannel;
 import java.util.Objects;
 
 public class MajbotMain extends BasePlugin {
