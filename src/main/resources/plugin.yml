@@ -1,0 +1,5 @@
+name: maiBot
+main: mai.hunyun.MajbotMain
+version: 1.0
+description: "114514"
+api-version: 0.49.2
